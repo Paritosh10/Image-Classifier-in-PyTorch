@@ -1,4 +1,4 @@
-# QSTP-Image-Recognition
+# Image-Classifier
 
 I have made a 2 layer CNN with Batchnorm with p=0.5, Non-linear activation through ReLU, max pooling and one fully connected layer. The Loss Class I have used is Cross Entropy Loss, and the Optimizer Class used is SGD. The accuracy after 3000 iterations(5 epochs) is 88%.
 
